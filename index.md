@@ -12,4 +12,4 @@ I have Creative Commons. <a href='https://creativecommons.org/licenses/by-nc-sa/
 
 You can check my <a href='https://github.com/HumanoidsYoutube?tab=repositories'>GitHub Reposotories</a> for them.
 
-__**Thanks for using my service!**__
+<strong>Thanks for using my service!</strong>
