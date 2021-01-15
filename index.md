@@ -1,35 +1,15 @@
-## Who Am I
+# Who Am I
 
 Welcome to Who Am I! This is some code to get your info online.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## License 
 
-```markdown
-Syntax highlighted code block
+I have Creative Commons. <a href='https://creativecommons.org/licenses/by-nc-sa/4.0'>See My Licence</a>.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## More Projects
 
-1. Numbered
-2. List
+You can check my <a href='https://github.com/HumanoidsYoutube?tab=repositories'>GitHub Reposotories</a> for them.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/whoamiinfo/about/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+__**Thanks for using my service!**__
